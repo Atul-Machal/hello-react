@@ -1,6 +1,0 @@
-CDN links- content delivery network  
-React is a javascript library which is used for building user interface, particularly creationg conponents and handling UI logics
-It is a core functionality for defining conponents and how they should bahave.
-ReactDOM is a separate package used specifically to interact with the DOM (Document Object Model).
-It provides the methods necessary to render React components to the browser DOM.
-ReactDOM is responsible for taking the components you've created and rendering them to the actual HTML page.
